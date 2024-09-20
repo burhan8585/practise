@@ -1,2 +1,2 @@
 # practise
-practice class demo
+practice demo 
